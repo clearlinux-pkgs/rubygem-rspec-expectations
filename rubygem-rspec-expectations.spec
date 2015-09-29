@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rspec-expectations
 Version  : 3.3.1
-Release  : 7
+Release  : 8
 URL      : https://rubygems.org/downloads/rspec-expectations-3.3.1.gem
 Source0  : https://rubygems.org/downloads/rspec-expectations-3.3.1.gem
 Summary  : No detailed summary available
